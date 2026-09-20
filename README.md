@@ -1,4 +1,4 @@
-<h1 align="center">DiOR-Light</h1>
+<h1 align="center">Dior-Light</h1>
 
 <h3 align="center">
 Dior: Drawing the Light of Image via Material-Decoupled Illumination Representation
